@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Main-Page.jpg" align="left"/>
+<img alt="Night Coding" src="./assets/main-page.jpg" align="left"/>
 
 ## 👋 &nbsp;Hey there! I'm mino
 
@@ -8,7 +8,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently doing master course(*system programming lab*) at the University of Ulsan.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;my-email: &nbsp;alsgh458@gmail.com
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
