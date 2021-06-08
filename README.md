@@ -1,6 +1,5 @@
 <img alt="Night Coding" src="./assets/main-page.jpg" align="left"/>
 
-</br></br></br>
 
 # 👋 &nbsp;Hey there! I'm mino
 
@@ -28,6 +27,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
 
+<br>
+<br>
 <br>
 
 ----
