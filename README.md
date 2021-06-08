@@ -2,8 +2,6 @@
 
 ## 👋 &nbsp;Hey there! I'm mino
 
-<br>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -11,7 +9,6 @@
 ✉️ &nbsp;my-email: &nbsp;alsgh458@gmail.com
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
-<br>
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -29,8 +26,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
 
-<br>
-<br>
 <br>
 <br>
 ----
