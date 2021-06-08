@@ -29,8 +29,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
 
 <br>
+
 ----
-<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<i><b>GitHub Stats</b></i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwonminho&show_icons=true&locale=en" alt="kwonminho" width="410" /></p>
