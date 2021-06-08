@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/main-page.jpg" align="left"/>
+<img alt="Night Coding" src="./assets/main-page.jpg"  width="500" height="600" align="left"/>
 
 
 # 👋 &nbsp;Hey there! I'm mino
