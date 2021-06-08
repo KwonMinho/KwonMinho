@@ -2,7 +2,7 @@
 
 </br>
 
-👋 &nbsp;Hey there! I'm mino
+# 👋 &nbsp;Hey there! I'm mino
 
 ### 👨🏻‍💻 &nbsp;About Me
 
