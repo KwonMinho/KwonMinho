@@ -1,7 +1,8 @@
 <img alt="Night Coding" src="./assets/main-page.jpg" align="left"/>
 
 </br>
-## 👋 &nbsp;Hey there! I'm mino
+
+👋 &nbsp;Hey there! I'm mino
 
 ### 👨🏻‍💻 &nbsp;About Me
 
