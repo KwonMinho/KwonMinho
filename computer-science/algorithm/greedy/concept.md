@@ -7,9 +7,13 @@
 
 # 푼 문제 로그
 
-- 백준/설탕배달: https://mino-life.tistory.com/30 
+- 백준/설탕배달: https://mino-life.tistory.com/30
 - 백준/회의실: https://mino-life.tistory.com/31
 - 백준/잃어버린 괄호: https://mino-life.tistory.com/32
+- 백준/로프: https://mino-life.tistory.com/33
+- 백준/신입사원: https://mino-life.tistory.com/34 (재도전 필요)
+
+
 ## 대표문제: 거스름돈 문제 
 
 ```
