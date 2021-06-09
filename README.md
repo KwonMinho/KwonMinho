@@ -38,7 +38,7 @@
 - <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
 
 #### *client module*
-- <a herf='https://github.com/KwonMinho/klay-did-auth'>**DID registry client**</a> (nodejs module)
+- <a herf='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
 ---
 ### 📜 &nbsp;Paper
