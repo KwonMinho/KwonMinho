@@ -38,7 +38,7 @@
 - <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
 
 #### *client module*
-- <a herf='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
+- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
 ---
 ### 📜 &nbsp;Paper
@@ -47,7 +47,6 @@
 - <a herf='./paper/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
 - <a herf='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
 <br>
-
 ----
 <i><b>GitHub Stats</b></i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
