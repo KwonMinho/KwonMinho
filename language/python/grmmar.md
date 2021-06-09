@@ -55,3 +55,9 @@ print(result)
 ```python
 for i, val in enumerate(arr[1:]):
 ```
+
+# 삼항 연산자
+
+```python
+op = 2 if cnt==-1 else 5
+```
