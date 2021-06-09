@@ -40,6 +40,9 @@
 #### *client module*
 - <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
+### *dashboard*
+- <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
+
 ---
 ### 📜 &nbsp;Paper
 #### First Author
