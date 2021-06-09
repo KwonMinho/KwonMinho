@@ -29,19 +29,18 @@
 ---
 ###  💾 &nbsp; Work
 
-#### *framework*
+#### *lab*
+##### framework
 - **br2k**:&nbsp; A framework based on the Command lien interface for br2k(br2k is a schema my studied)
 - <a href='https://github.com/KwonMinho/br2k-app'>**br2k-app**</a>:&nbsp;Web server framework based on express for br2k schema
-
-#### *smart contract*
+##### smart contract
 - <a href='https://github.com/KwonMinho/service-registry'>**service-registry**</a>:&nbsp;Backup meta storage in br2k schema (ethereum smart contract)
 - <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
-
-#### *client module*
-- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
-
-### *dashboard*
+##### dashboard
 - <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
+
+##### client module
+- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
 ---
 ### 📜 &nbsp;Paper
