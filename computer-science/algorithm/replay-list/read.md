@@ -4,6 +4,10 @@
 - 백준/잃어버린 괄호: https://mino-life.tistory.com/32
 - 백준/로프: https://mino-life.tistory.com/33
 - 백준/신입사원: https://mino-life.tistory.com/34 (재도전 필요)
-
+- 프로그래머스/베스트 앨범: https://mino-life.tistory.com/39
 
 - 프로그래머스/위장: https://programmers.co.kr/learn/courses/30/lessons/42578
+
+
+- 프로그래머스/H-index: https://mino-life.tistory.com/43
+- 프로그래머스/가장 큰 수: https://programmers.co.kr/learn/courses/30/lessons/42746
