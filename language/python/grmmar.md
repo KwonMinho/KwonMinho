@@ -1,3 +1,37 @@
+# 코드 작성 팁
+
+파이썬은 일반적으로 myStyle 보다는 my_style 이런식으로 많이 사용하는 거 같다
+
+# 내장 함수
+
+## zip()
+zip() 함수는 여러 개의 순회 가능한(iterable) 객체를 인자로 받고, 
+각 객체가 담고 있는 원소를 터플의 형태로 차례로 접근할 수 있는 반복자(iterator)를 반환합니다.
+
+```
+>>> numbers = [1, 2, 3]
+>>> letters = ["A", "B", "C"]
+>>> for t1, t2 in zip(numbers, letters):
+      print((t1,t2))
+
+```
+```
+(1, 'A')
+(2, 'B')
+(3, 'C')
+```
+## 접두어, 접미사 체크
+
+```
+>>> "hello world".startwith('hello')
+True
+>>> "hello wolrd".endswith('hello')
+False
+
+```
+
+
+
 
 # (), [], [[]], {}의 이해
 
