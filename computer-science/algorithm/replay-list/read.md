@@ -13,3 +13,5 @@
 -----------------------
 - 프로그래머스/전화번호 목록: https://mino-life.tistory.com/37 (해시맵으로 다시 풀어보기)
 - 프로그래머스/베스트 앨범: https://mino-life.tistory.com/39
+- 프로그래머스/프린터: https://programmers.co.kr/learn/courses/30/lessons/42587   , https://mino-life.tistory.com/44
+- 프로그래머스/다리를 지나는 트럭:https://programmers.co.kr/learn/courses/30/lessons/42583
