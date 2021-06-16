@@ -1,3 +1,25 @@
+# heapq
+
+```python
+import heapq
+
+heap =[]
+heapq.heappush(heap,1)
+print(heap)  # [1]
+heapq.heappush(heap,2)
+print(heap) #[1,2]
+
+
+#기존리스트를 heap으로 변환
+_list = [1,2,3,4,5]
+heapq.heapify(_list)
+
+# pop
+heapq.heappop(heap)
+
+```
+
+
 # 모르는 문법 메모
 
 2**2 => 2 제곱
