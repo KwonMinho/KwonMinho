@@ -1,3 +1,19 @@
+# int나누기
+```
+5/3 => type float
+5//3 => type int
+```
+
+# Map과 함께 사용하여 입력받기
+```
+a,b = map(int, input().split())
+```
+# swap 방식
+```python
+a,b = b,a 
+
+```
+
 # heapq
 
 ```python
