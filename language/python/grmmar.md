@@ -1,20 +1,20 @@
-# int나누기
+## int나누기
 ```
 5/3 => type float
 5//3 => type int
 ```
 
-# Map과 함께 사용하여 입력받기
+## Map과 함께 사용하여 입력받기
 ```
 a,b = map(int, input().split())
 ```
-# swap 방식
+## swap 방식
 ```python
 a,b = b,a 
 
 ```
 
-# heapq
+## heapq
 
 ```python
 import heapq
@@ -26,7 +26,7 @@ heapq.heappush(heap,2)
 print(heap) #[1,2]
 
 
-#기존리스트를 heap으로 변환
+## 기존리스트를 heap으로 변환
 _list = [1,2,3,4,5]
 heapq.heapify(_list)
 
