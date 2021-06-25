@@ -19,4 +19,5 @@
 ------------------
 - 프로그래머스/다리를 지나는 트럭:https://programmers.co.kr/learn/courses/30/lessons/42583
 - 프로그래머스/주식가격: https://mino-life.tistory.com/48
-프로그래머스/네트워크: https://mino-life.tistory.com/56
+- 프로그래머스/네트워크: https://mino-life.tistory.com/56
+- 프로그래머스/단어 변환: https://mino-life.tistory.com/57
