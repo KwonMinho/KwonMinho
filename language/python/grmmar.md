@@ -1,19 +1,52 @@
-## int나누기
-```
+
+# 자주 쓰는 python 문법 
+
+### int 나누기
+```python
 5/3 => type float
 5//3 => type int
 ```
 
-## Map과 함께 사용하여 입력받기
+
+### Map과 함께 사용하여 입력받기
 ```
 a,b = map(int, input().split())
 ```
-## swap 방식
+### swap 방식
 ```python
 a,b = b,a 
+```
+
+### slice
+```python
+
+# 1 리스트에서 현재 index 삭제
+arr[:index]+arr[index+1:]
+
+# 2 마지막 인덱스 제거
+a = a[:-1]
 
 ```
 
+### zip()
+zip() 함수는 여러 개의 순회 가능한(iterable) 객체를 인자로 받고, 
+각 객체가 담고 있는 원소를 터플의 형태로 차례로 접근할 수 있는 반복자(iterator)를 반환합니다.
+
+```
+>>> numbers = [1, 2, 3]
+>>> letters = ["A", "B", "C"]
+>>> for t1, t2 in zip(numbers, letters):
+      print((t1,t2))
+
+```
+```
+(1, 'A')
+(2, 'B')
+(3, 'C')
+```
+
+
+# 그 외
 ## heapq
 
 ```python
@@ -184,21 +217,7 @@ python version
 
 # 내장 함수
 
-## zip()
-zip() 함수는 여러 개의 순회 가능한(iterable) 객체를 인자로 받고, 
-각 객체가 담고 있는 원소를 터플의 형태로 차례로 접근할 수 있는 반복자(iterator)를 반환합니다.
 
-```
->>> numbers = [1, 2, 3]
->>> letters = ["A", "B", "C"]
->>> for t1, t2 in zip(numbers, letters):
-      print((t1,t2))
-
-```
-```
-(1, 'A')
-(2, 'B')
-(3, 'C')
 ```
 
 ## 접두어, 접미사 체크
