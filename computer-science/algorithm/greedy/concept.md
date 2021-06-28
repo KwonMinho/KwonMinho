@@ -13,6 +13,8 @@
 - 백준/로프: https://mino-life.tistory.com/33
 - 백준/신입사원: https://mino-life.tistory.com/34 (재도전 필요)
 
+- 프로그래머스/체육복; https://mino-life.tistory.com/60
+
 
 ## 대표문제: 거스름돈 문제 
 

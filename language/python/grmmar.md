@@ -1,6 +1,14 @@
 
 # 자주 쓰는 python 문법 
 
+
+### global 변수 접근
+```python
+answer =0
+
+def fu():
+      global answer
+```
 ### int 나누기
 ```python
 5/3 => type float
