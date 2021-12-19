@@ -31,8 +31,8 @@
 
 ### *lab*
 ##### framework
-- <a href='https://github.com/KwonMinho/br2k-framework'>**br2k**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
-- <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp;Web application server framework based on express for br2k schema
+- <a href='https://github.com/KwonMinho/br2k-framework'>**br2k-cli**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
+- <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp; Web application server framework based on express for br2k schema
 ##### smart contract
 - <a href='https://github.com/KwonMinho/service-registry'>**service-registry**</a>:&nbsp;Backup meta storage in br2k schema (ethereum smart contract)
 - <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
