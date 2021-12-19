@@ -38,7 +38,6 @@
 - <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
 ##### dashboard
 - <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
-
 ##### client module
 - <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
