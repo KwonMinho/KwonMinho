@@ -2,16 +2,16 @@
 
 # 👋 &nbsp;Hey there! I'm mino
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently doing master course(*system programming lab*) at the University of Ulsan.\
+🎓 &nbsp;I graduated from master's program(_system programming lab_) at the University of Ulsan.\
 ✉️ &nbsp;my-email: &nbsp;alsgh458@gmail.com
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
+---
 
-----
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
+
 <img alt="Night Coding" src="./assets/Night-Coding.gif" width=30% height=30% align="right"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,29 +24,64 @@
 ![SmartContract](https://img.shields.io/badge/-SmartContract-05122A?style=flat&logo=SmartContract&link=https://github.com/BRdhanani)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;<br>
 ![Linux/Ubuntu](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
----
-###  💾 &nbsp; Work
 
-### *lab*
-##### framework
+---
+
+## 💾 &nbsp; Work
+
+### _System programming lab(Master Course)_
+
+<br>
+
+### `BR2K technique`
+
+```
+A Replication and Recovery Technique Using Kubernetes for Blockchain Services
+```
+
+#### `Implementations related to the BR2K technique(below)`
+
+#### Framework & Support tools
+
 - <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp; Replication-framework for replicating a blockchain web application service server
 - <a href='https://github.com/KwonMinho/br2k-framework'>**br2k-cli**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
-##### smart contract
+- <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> :&nbsp; A replication status monitoring tool that can continuously check the replication states of
+  blockchain application services running in association with the BR2K technique
+
+#### Smart contract(Ethereum)
+
 - <a href='https://github.com/KwonMinho/service-registry'>**service-registry**</a>:&nbsp;Backup meta storage in br2k schema (ethereum smart contract)
-- <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
-##### dashboard
-- <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
-##### client module
-- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
+
+#### Application service
+
+- <a href='https://github.com/KwonMinho/infoDID'>**InfoDID**</a>:&nbsp; (The details are below)
+
+### `InfoDID`
+
+```
+A robust user information management serivce based on Decentralized Identifiers (A trial application service to apply the br2k technique)
+```
+
+#### `Implementations related to the InfoDID(below)`
+
+- <a href='https://github.com/KwonMinho/infoDID'>**InfoDID**</a>&nbsp;
+- <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>**:&nbsp; Registry to manage did information(Klaytn smart contract, w3c 1.0 format)
+- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID-registry-client** </a>:&nbsp; Client module for DID registry
 
 ---
+
 ### 📜 &nbsp;Paper
+
 #### First Author
+
 - <a href='./paper/A robust execution scheme for Ethereum blockchain application services.pdf'> A robust execution scheme for Ethereum blockchain application services</a>
 - <a href='./paper/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
 - <a href='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
-----
+
+---
+
 <i><b>GitHub Stats</b></i>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwonminho&show_icons=true&locale=en" alt="kwonminho" width="410" /></p>
@@ -54,4 +89,5 @@
 <br>
 
 ### [20.06.21~21.06.08, I used lab git]
+
 &nbsp;<img align="center" src="./assets/before-git-log.PNG" alt="kwonminho" width="410" />
