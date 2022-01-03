@@ -43,9 +43,9 @@ A Replication and Recovery Technique Using Kubernetes for Blockchain Services
 
 #### Framework & Support tools
 
-- <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp; Replication-framework for replicating a blockchain web application service server
-- <a href='https://github.com/KwonMinho/br2k-framework'>**br2k-cli**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
-- <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> :&nbsp; A replication status monitoring tool that can continuously check the replication states of
+- <a  target='_blank' href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp; Replication-framework for replicating a blockchain web application service server
+- <a  target='_blank' href='https://github.com/KwonMinho/br2k-framework'>**br2k-cli**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
+- <a  target='_blank' href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> :&nbsp; A replication status monitoring tool that can continuously check the replication states of
   blockchain application services running in association with the BR2K technique
 
 #### Smart contract(Ethereum)
@@ -64,9 +64,9 @@ A robust user information management serivce based on Decentralized Identifiers 
 
 #### `Implementations related to the InfoDID(below)`
 
-- <a href='https://github.com/KwonMinho/infoDID'>**InfoDID**</a>&nbsp;
-- <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>**:&nbsp; Registry to manage did information(Klaytn smart contract, w3c 1.0 format)
-- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID-registry-client** </a>:&nbsp; Client module for DID registry
+- <a  target='_blank' href='https://github.com/KwonMinho/infoDID'>**InfoDID**</a>&nbsp;
+- <a  target='_blank' href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>**:&nbsp; Registry to manage did information(Klaytn smart contract, w3c 1.0 format)
+- <a  target='_blank' href='https://github.com/KwonMinho/klay-did-auth'> **DID-registry-client** </a>:&nbsp; Client module for DID registry
 
 ---
 
@@ -74,9 +74,20 @@ A robust user information management serivce based on Decentralized Identifiers 
 
 #### First Author
 
-- <a href='./Paper/A robust execution scheme for Ethereum blockchain application services.pdf'> A robust execution scheme for Ethereum blockchain application services</a>
-- <a href='./Paper/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
-- <a href='./Paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
+- <a  target='_blank' href='./res/A robust execution scheme for Ethereum blockchain application services.pdf'> A robust execution scheme for Ethereum blockchain application services</a>
+- <a  target='_blank' href='./res/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
+- <a  target='_blank' href='./res/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
+
+#### Participating Paper
+
+- <a  target='_blank' href='https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10571555'> BCON: Blockchain-based Content Management Service Using DID</a>
+
+---
+
+### 🏆 &nbsp;Award
+
+- <a  target='_blank' href='./res/award/Grand Prize for Graduation'> Grand Prize for Graduation</a>
+- <a  target='_blank' href='./res/award/Academic-Conference-Award.pdf'> 2019 Korea Comprehensive Computer Science Conference Undergraduate/Junior Thesis Contest Encouragement Prize</a>
 
 ---
 
