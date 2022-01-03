@@ -15,17 +15,15 @@
 <img alt="Night Coding" src="./assets/Night-Coding.gif" width=30% height=30% align="right"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logo=Vue)&nbsp;<br>
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&link=https://github.com/BRdhanani)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&link=https://github.com/BRdhanani)&nbsp;
 ![ETCD](https://img.shields.io/badge/-Etcd-05122A?style=flat&logo=etcd&link=https://github.com/BRdhanani)&nbsp;<br>
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&link=https://github.com/BRdhanani)&nbsp;
 ![SmartContract](https://img.shields.io/badge/-SmartContract-05122A?style=flat&logo=SmartContract&link=https://github.com/BRdhanani)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;<br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
+![Linux/Ubuntu](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
 ---
 ###  💾 &nbsp; Work
 
