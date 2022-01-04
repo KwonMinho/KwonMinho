@@ -5,7 +5,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I graduated from master's program(_system programming lab_) at the University of Ulsan.\
 ✉️ &nbsp;my-email: &nbsp;alsgh458@gmail.com
 
 ---
@@ -28,8 +27,6 @@
 ---
 
 ## 💾 &nbsp; Work
-
-### _System programming lab(Master Course)_
 
 <br>
 
