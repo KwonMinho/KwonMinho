@@ -49,7 +49,7 @@
 - <a href='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
 ----
 ### Certificate
-<img width="334" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png" width=60% height=60%>
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png" width=40% height=40%>
 
 ----
 <i><b>GitHub Stats</b></i>
