@@ -50,7 +50,8 @@
 ----
 ### Certificate
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png">
-CKA - certID: LF-ghiev8ntss
+CKA-Cert-ID: LF-ghiev8ntss
+
 ----
 <i><b>GitHub Stats</b></i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
