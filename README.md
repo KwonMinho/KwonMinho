@@ -5,9 +5,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently doing master course(*system programming lab*) at the University of Ulsan.\
-✉️ &nbsp;my-email: &nbsp;alsgh458@gmail.com
+💡 &nbsp;I have a passion for obtaining the latest information on new technologies and aim to create innovative software solutions\
+🎓 &nbsp;I obtained a master's degree in system programming research laboratory(University of Ulsan in Korea) - Mainly used Kubernetes and Ethereum technologies
+✉️ &nbsp;my-email: &nbsp;alsgh458@smartm2m.co.kr
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 
