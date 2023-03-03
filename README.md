@@ -6,8 +6,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I have a passion for obtaining the latest information on new technologies and aim to create innovative software solutions\
-🎓 &nbsp;I obtained a master's degree in system programming research laboratory(University of Ulsan in Korea) - Mainly used Kubernetes and Ethereum technologies
-✉️ &nbsp;my-email: &nbsp;alsgh458@smartm2m.co.kr
+🎓 &nbsp;I obtained a master's degree in system programming research laboratory(University of Ulsan in Korea) - Mainly used Kubernetes and Ethereum technologies\
+:white_check_mark: &nbsp; Currently, I am working on blockchain construction and system development at a company called Smart M2M in Busan\
+✉️ &nbsp;contact: &nbsp;alsgh458@smartm2m.co.kr\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 
