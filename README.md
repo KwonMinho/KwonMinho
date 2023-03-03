@@ -49,8 +49,8 @@
 - <a href='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
 ----
 ### Certificate
-<img width="334" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png" width=40% height=40%>
-
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png">
+CKA - certID: LF-ghiev8ntss
 ----
 <i><b>GitHub Stats</b></i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
