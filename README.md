@@ -31,7 +31,7 @@
 ---
 ###  💾 &nbsp; Work
 
-### *Lab*
+### *The master's course*
 - <a href='https://github.com/KwonMinho/br2k-framework'>**br2k**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
 - <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp;Web application server framework based on express for br2k schema
 - <a href='https://github.com/KwonMinho/service-registry'>**service-registry**</a>:&nbsp;Backup meta storage in br2k schema (ethereum smart contract)
@@ -39,9 +39,7 @@
 - <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
 - <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
 
----
-### 📜 &nbsp;Paper
-#### First Author
+#### 📜 &nbsp;Paper(Only, First Author)
 - <a href='./paper/A robust execution scheme for Ethereum blockchain application services.pdf'> A robust execution scheme for Ethereum blockchain application services</a>
 - <a href='./paper/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
 - <a href='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
