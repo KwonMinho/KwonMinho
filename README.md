@@ -1,6 +1,3 @@
-
-<img alt="Night Coding" src="./assets/main-page.jpg" width=75% height=75% align="center"/>
-
 # 👋 &nbsp;Hey there! I'm mino
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -16,49 +13,13 @@
 ### 🛠 &nbsp;Tech Stack
 <img alt="Night Coding" src="./assets/Night-Coding.gif" width=30% height=30% align="right"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;<br>
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logo=Vue)&nbsp;<br>
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&link=https://github.com/BRdhanani)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&link=https://github.com/BRdhanani)&nbsp;
-![ETCD](https://img.shields.io/badge/-Etcd-05122A?style=flat&logo=etcd&link=https://github.com/BRdhanani)&nbsp;<br>
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&link=https://github.com/BRdhanani)&nbsp;
-![SmartContract](https://img.shields.io/badge/-SmartContract-05122A?style=flat&logo=SmartContract&link=https://github.com/BRdhanani)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;<br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&link=https://github.com/BRdhanani)&nbsp;
 ![Hyperledger Fabric](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)&nbsp;
 ---
-###  💾 &nbsp; Work
 
-### *1. The master's course*
-- <a href='https://github.com/KwonMinho/br2k-framework'>**br2k**</a>:&nbsp; A framework based on the command line interface for br2k(br2k is a schema my studied)
-- <a href='https://github.com/KwonMinho/br2k-app'>**br2k-was**</a>:&nbsp;Web application server framework based on express for br2k schema
-- <a href='https://github.com/KwonMinho/service-registry'>**service-registry**</a>:&nbsp;Backup meta storage in br2k schema (ethereum smart contract)
-- <a href='https://github.com/KwonMinho/DID-registry-klaytn'>**DID(decentralized identity) registry</a>** (klaytn smart contract, w3c 1.0 format)
-- <a href='https://github.com/KwonMinho/br2k-watch'> **br2k watch** </a> (vuejs)
-- <a href='https://github.com/KwonMinho/klay-did-auth'> **DID registry client** </a> (nodejs module)
-
-📜 &nbsp;Paper(Only, First Author)
-- <a href='./paper/A robust execution scheme for Ethereum blockchain application services.pdf'> A robust execution scheme for Ethereum blockchain application services</a>
-- <a href='./paper/BR2K A Replication and Recovery Technique Using Kubernetes.pdf'>BR2K: A Replication and Recovery Technique Using Kubernetes</a>
-- <a href='./paper/InfoDID A robust user information management serivce.pdf'>InfoDID A robust user information management serivce</a>
-----
 ### Certificate
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/36630283/222748986-1f962655-f98b-4035-b678-99147073f408.png">
 CKA-Cert-ID: LF-ghiev8ntss
-
-----
-<i><b>GitHub Stats</b></i>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwonminho&show_icons=true&locale=en&layout=compact" alt="kwonminho" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwonminho&show_icons=true&locale=en" alt="kwonminho" width="410" /></p>
-
-<br>
-
-### [20.06.21~21.06.08, I used lab git]
-&nbsp;<img align="center" src="./assets/before-git-log.PNG" alt="kwonminho" width="410" />
