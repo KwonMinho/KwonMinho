@@ -1,5 +1,3 @@
-# 👋 &nbsp;Hey there! I'm mino
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I have a passion for obtaining the latest information on new technologies and aim to create innovative software solutions\
